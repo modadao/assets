@@ -1,0 +1,11 @@
+{
+    "name": "MODA DAO",
+    "symbol": "MODA",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "MODA DAO is a decentralised technology network and community. Designed for the metaverse and the play-to-earn era, MODA is dedicated to the adoption of Web3 in the music industry via NFTs, micro-licensing, DAO governance and DeFi.",
+    "website": "https://www.modadao.io/",
+    "explorer": "https://etherscan.io/token/0x1117ac6ad6cdf1a3bc543bad3b133724620522d5",
+    "status": "active",
+    "id": "0x1117ac6ad6cdf1a3bc543bad3b133724620522d5"
+}
